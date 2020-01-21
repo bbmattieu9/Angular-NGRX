@@ -1,0 +1,18 @@
+/* html {
+  background-color: rgba(0, 0, 0, 0.03);
+} */
+
+
+/* You can add global styles to this file, and also import other style files */
+li {
+    font-size: large;
+}
+
+div.panel-heading {
+   font-size: x-large;
+}
+
+body {
+  margin-top: 50px;
+  /* background-color: rgba(0, 0, 0, 0.03); */
+}
